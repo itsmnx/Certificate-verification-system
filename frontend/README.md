@@ -30,6 +30,13 @@ This creates an optimized production build in the `build/` folder.
 
 ## Project Structure
 
+## Features
+- Certificate Verification
+- PDF Generation
+- Email Notifications
+- Admin Dashboard
+- Secure Verification System
+
 ```
 frontend/
 ├── public/
